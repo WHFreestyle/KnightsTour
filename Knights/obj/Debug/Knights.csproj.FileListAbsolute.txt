@@ -1,0 +1,7 @@
+C:\Users\Ivankovic\source\repos\Knights\Knights\bin\Debug\Knights.exe.config
+C:\Users\Ivankovic\source\repos\Knights\Knights\bin\Debug\Knights.exe
+C:\Users\Ivankovic\source\repos\Knights\Knights\bin\Debug\Knights.pdb
+C:\Users\Ivankovic\source\repos\Knights\Knights\obj\Debug\Knights.csprojAssemblyReference.cache
+C:\Users\Ivankovic\source\repos\Knights\Knights\obj\Debug\Knights.csproj.CoreCompileInputs.cache
+C:\Users\Ivankovic\source\repos\Knights\Knights\obj\Debug\Knights.exe
+C:\Users\Ivankovic\source\repos\Knights\Knights\obj\Debug\Knights.pdb
